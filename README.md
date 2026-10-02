@@ -2,7 +2,6 @@
 
 Quantitative finance research notebooks, one folder per topic.
 
-
 ## W1
 
 - **Backtest Overfitting: the Deflated Sharpe Ratio and PBO** — [notebook](W1/BacktestOverfitting/BacktestOverfitting.ipynb) · [PDF](W1/BacktestOverfitting/BacktestOverfitting.pdf)
