@@ -2,15 +2,12 @@
 
 Quantitative finance research notebooks, one folder per topic.
 
-## W1
+## Topics
 
-- **Backtest Overfitting: the Deflated Sharpe Ratio and PBO** — [notebook](W1/BacktestOverfitting/BacktestOverfitting.ipynb) · [PDF](W1/BacktestOverfitting/BacktestOverfitting.pdf)
-- **Hierarchical Risk Parity vs Mean-Variance vs 1/N** — [notebook](W1/HierarchicalRiskParity/HierarchicalRiskParity.ipynb) · [PDF](W1/HierarchicalRiskParity/HierarchicalRiskParity.pdf)
-- **The Merton Model: Reading Default Risk from Stock Prices** — [notebook](W1/MertonCredit/MertonCredit.ipynb) · [PDF](W1/MertonCredit/MertonCredit.pdf)
-
-## W2
-
-- **Mean-Variance Portfolio Optimization with Real Crypto Data** — [notebook](W2/MeanVariance/MeanVariance.ipynb) · [PDF](W2/MeanVariance/MeanVariance.pdf)
+- **Backtest Overfitting: the Deflated Sharpe Ratio and PBO** — [notebook](BacktestOverfitting/BacktestOverfitting.ipynb) · [PDF](BacktestOverfitting/BacktestOverfitting.pdf)
+- **Hierarchical Risk Parity vs Mean-Variance vs 1/N** — [notebook](HierarchicalRiskParity/HierarchicalRiskParity.ipynb) · [PDF](HierarchicalRiskParity/HierarchicalRiskParity.pdf)
+- **Mean-Variance Portfolio Optimization with Real Crypto Data** — [notebook](MeanVariance/MeanVariance.ipynb) · [PDF](MeanVariance/MeanVariance.pdf)
+- **The Merton Model: Reading Default Risk from Stock Prices** — [notebook](MertonCredit/MertonCredit.ipynb) · [PDF](MertonCredit/MertonCredit.pdf)
 
 ## Setup
 
